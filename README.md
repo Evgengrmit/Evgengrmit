@@ -1,5 +1,5 @@
 ## Hello, my name is Evgeniy 🤗
-
+![](https://komarev.com/ghpvc/?username=Evgengrmit&color=blueviolet)
 ### Studying 📚 
 * Specialist student in Bauman Moscow State Technical University 
 * Faculty of Computer Science, Control Systems and Artificial Intelligence
@@ -15,7 +15,8 @@
 ### Education 🎓
 **Diploma of an information security specialist (2019-2025)**
 Specialization *Information security of automated systems*
+
 [![Evgenij Grigorev's github stats](https://github-readme-stats.vercel.app/api?username=Evgengrmit&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgengrmit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=Evgengrmit&color=blueviolet)
+
